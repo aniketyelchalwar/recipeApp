@@ -186,11 +186,10 @@ body :: -webkit-scollbar{
     width: 16px; 
 }
 body :: -webkit-scollbar-thumb {
-    background: #b5b5ba;
+    background: #FFD6BA;
 }
 body :: -webkit-scollbar-track {
-    
-}
+background: #f44336;}
 
 
 /*Responsive code*/
