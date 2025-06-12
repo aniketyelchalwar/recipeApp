@@ -197,6 +197,8 @@ background: #f44336;}
 @media screen and (max-width: 600px){
     header nav {
         flex-direction: column;
+        align-items: center;
+        padding: 10px;
     }
 
     header nav form{
@@ -204,4 +206,3 @@ background: #f44336;}
         margin-top: 20px;
     }
 }
-
