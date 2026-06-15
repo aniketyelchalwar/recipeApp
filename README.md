@@ -1,0 +1,1 @@
+This is a responsive web application that allows users to search for recipes using TheMealDB API. Built using HTML, CSS, and JavaScript, the app provides an interactive interface to discover meals by name, get random recipes, and view detailed instructions, ingredients, and images.
